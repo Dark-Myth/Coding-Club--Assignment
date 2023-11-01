@@ -1,0 +1,443 @@
+/* CSS styles for the HTML content */
+
+.AboutUs {
+    height: 1080px;
+    position: relative;
+    background: white;
+}
+
+.Scroll2 {
+    width: 1280px;
+    height: 832px;
+    left: -2px;
+    top: 832px;
+    position: absolute;
+    background: white;
+}
+
+.Text4 {
+    width: 487px;
+    height: 217px;
+    left: 721px;
+    top: 197px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    font-family: Linden Hill;
+    font-weight: 400;
+    line-height: 27.70px;
+    letter-spacing: 6.48px;
+    word-wrap: break-word;
+}
+
+.Rectangle7 {
+    width: 631px;
+    height: 422px;
+    left: 61px;
+    top: 174px;
+    position: absolute;
+    border-radius: 12px;
+}
+
+.Text3 {
+    width: 1223px;
+    left: 28px;
+    top: 691px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    font-family: Linden Hill;
+    font-weight: 400;
+    line-height: 27.70px;
+    letter-spacing: 6.48px;
+    word-wrap: break-word;
+}
+
+.OurBelief {
+    left: 548px;
+    top: 78px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: Linden Hill;
+    font-weight: 400;
+    line-height: 30.77px;
+    letter-spacing: 7.20px;
+    word-wrap: break-word;
+}
+.M_button{
+    top: 9px;
+    left: 420px;
+     position: absolute;
+      color: white; 
+      font-size: 13px; 
+      font-weight: 400;
+       line-height: 13.34px;
+        word-wrap: break-word;
+}
+.OurTeam {
+    left: 548px;
+    top: 78px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: Linden Hill;
+    font-weight: 400;
+    line-height: 30.77px;
+    letter-spacing: 7.20px;
+    word-wrap: break-word;
+}
+
+.Scroll1 {
+    width: 1280px;
+    height: 832px;
+    left: 0px;
+    top: 1664px;
+    position: absolute;
+    background: linear-gradient(180deg, rgba(235.88, 215.10, 199.51, 0.31) 0%, rgba(235.88, 215.10, 199.51, 0) 100%);
+}
+
+.Text2 {
+    width: 487px;
+    height: 217px;
+    left: 723px;
+    top: 256px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    font-family: Linden Hill;
+    font-weight: 400;
+    line-height: 27.70px;
+    letter-spacing: 6.48px;
+    word-wrap: break-word;
+}
+
+.Group7 {
+    width: 1291px;
+    height: 108px;
+    left: px;
+    top: 724px;
+    position: absolute;
+    display: fixed;
+}
+
+.Rectangle3 {
+    width: 1291px;
+    height: 108px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(25.50, 21.57, 21.57, 0.98);
+}
+
+.HomeOnlineShopSiteMapPrivacyPolicy {
+    width: 380px;
+    height: 11.41px;
+    left: 35px;
+    top: 79.90px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: Lohit Tamil;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+}
+
+.Address{
+    width: 273px;
+    height: 22.83px;
+    left: 69px;
+    top: 35.12px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: Lohit Tamil;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+}
+
+.Group2 {
+    width: 366px;
+    height: 52.68px;
+    left: 541px;
+    top: 29.85px;
+    position: absolute;
+}
+
+.Rectangle5 {
+    width: 19px;
+    height: 18.44px;
+    left: 330px;
+    top: 34.24px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Rectangle4 {
+    width: 349px;
+    height: 19.32px;
+    left: 0px;
+    top: 33.37px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.68);
+}
+
+.Subscribe {
+    width: 366px;
+    height: 36px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: #E7DDDD;
+    font-size: 13px;
+    font-family: Lohit Bengali;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+}
+
+.Group4 {
+    width: 123px;
+    height: 15.40px;
+    left: 1146px;
+    top: 38.30px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: Lohit Tamil;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+    padding: 2px;
+}
+.Group10 {
+    width: 123px;
+    height: 15.40px;
+    left: 1146px;
+    top: 58.30px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    line-height: 13.34px;
+    word-wrap: break-word;
+    padding: 2px;
+}
+
+.Group9 {
+    width: 1289px;
+    height: 802px;
+    position: relative;
+}
+
+.Rectangle6 {
+    width: 1289px;
+    height: 802px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.Group8 {
+    width: 169px;
+    height: 16px;
+    left: 560px;
+    top: 773px;
+    position: absolute;
+}
+
+.Ellipse3 {
+    width: 14px;
+    height: 14px;
+    left: 49px;
+    top: 0px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.56);
+    border-radius: 9999px;
+}
+
+.Ellipse4 {
+    width: 16px;
+    height: 14px;
+    left: 0px;
+    top: -0px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.56);
+    border-radius: 9999px;
+}
+
+.Ellipse5 {
+    width: 14px;
+    height: 14px;
+    left: 26px;
+    top: -0px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.56);
+    border-radius: 9999px;
+}
+
+.Ellipse7 {
+    width: 16px;
+    height: 16px;
+    left: 78px;
+    top: -0px;
+    position: absolute;
+    background: #E2E2E2;
+    border-radius: 9999px;
+}
+
+.Ellipse8 {
+    width: 14px;
+    height: 14px;
+    left: 104px;
+    top: -0px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.56);
+    border-radius: 9999px;
+}
+
+.Ellipse9 {
+    width: 14px;
+    height: 14px;
+    left: 130px;
+    top: -0px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.56);
+    border-radius: 9999px;
+}
+
+.Ellipse10 {
+    width: 14px;
+    height: 14px;
+    left: 155px;
+    top: -0px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.56);
+    border-radius: 9999px;
+}
+
+.Text1 {
+    width: 850px;
+    height: 76px;
+    left: 74px;
+    top: 391px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    font-family: Lohit Bengali;
+    font-weight: 400;
+    line-height: 23.59px;
+    word-wrap: break-word;
+}
+
+.Frame1 {
+    width: 1288px;
+    height: 32px;
+    top: 0px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.92);
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+    position:fixed;
+}
+
+.Frame3 {
+    width: 419px;
+    height: 30px;
+    position: absolute;
+    left: 824px;
+}
+
+.ContactUs {
+    left: 319px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 13px;
+    font-family: Lohit Bengali;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+}
+
+.ContactUs img {
+    left: 419px;
+    top: 11px;
+    position: absolute;
+}
+
+.Menu {
+    left: 44px;
+    top: 11px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: Lohit Bengali;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+}
+
+.MakeAReservation {
+    left: 102px;
+    top: 11px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: Lohit Tamil;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+}
+
+.About {
+    left: 255px;
+    top: 11px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: Lohit Bengali;
+    font-weight: 400;
+    line-height: 13.34px;
+    word-wrap: break-word;
+}
+
+.Frame2 {
+    width: 16px;
+    height: 16px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.50px;
+    display: inline-flex;
+}
+
+.LinkLogin {
+    width: 38px;
+    height: 30px;
+    background: rgba(21.16, 137.99, 188.06, 0);
+}
+
+.AlphineRestaurant {
+    margin-left: 10px;
+    margin-bottom: 4px;
+    color: #D0C8C8;
+    font-size: 20px;
+    font-family: Lateef;
+    font-weight: 400;
+}
